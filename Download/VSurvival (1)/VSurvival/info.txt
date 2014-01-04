@@ -1,0 +1,6 @@
+VSurvival
+Version: Prototype 
+OS: Mac OS X
+Directory: /Users/ianhuang/Desktop/Vsurvival
+Game file type: Python Package
+Python version: 2.5

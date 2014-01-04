@@ -1,0 +1,8 @@
+# Example mod
+
+addnewblock NewStone,newstone.png,10,323,3
+addnewitem randomitem,images.jpeg,234,1
+
+# Add a new block called NewStone with the texture newstone.png
+# hardness 10 id 323
+# Sorry about the newstone texture :)

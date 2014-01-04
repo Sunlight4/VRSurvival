@@ -1,0 +1,22 @@
+ID List
+
+Air 0/null
+Stone 1
+Dirt 2
+Grass 3
+Log 4
+Leaves 5
+Wood Plank 6
+Coal Ore 7
+Iron Ore 8
+Diamond Ore 9
+Emerald Ore 10
+Ruby Ore 11
+Copper Ore 12
+Gold Ore 13
+Quartz Ore 14
+Iron 15
+Water L1
+Lava L2
+Bedrock 16
+Chest 17
